@@ -14,18 +14,8 @@ server_scripts {
 
 shared_scripts {
     '@ox_lib/init.lua',
-
     'edit.lua'
 }
-
-escrow_ignore {
-    'thanksforpurchasing.md',
-    'sql/*',
-    'edit.lua',
-    'client/events.lua',
-    'client/bridge.lua',
-    'server/bridge.lua'
- }
 
 
 
