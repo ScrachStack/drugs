@@ -31,7 +31,7 @@
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
         usetime = 2500,
     }
-}
+},
 
 ['cocaine'] = {
     label = 'cocaine',
@@ -43,7 +43,7 @@
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
         usetime = 2500,
     }
-}
+},
 
 ['coke_bag'] = {
     label = 'coke_bag',
@@ -55,4 +55,4 @@
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
         usetime = 2500,
     }
-}
+},
