@@ -6,19 +6,6 @@ Config.SpawnDistance = 5.0
 Config.ApproachSpeed = 1.0
 Config.DrugDealer = {
     Enabled = true,
-   
-    ItemsToSell = {
-        {
-            Name = 'weed',  -- Item identifier (should match database)
-            Label = 'Weed',  -- Display name
-            Price = 100,  -- Selling price
-        },
-        {
-            Name = 'cocaine',  -- Item identifier (should match database)
-            Label = 'Cocaine',  -- Display name
-            Price = 200,  -- Selling price
-        },
-    }
 }
 
 
