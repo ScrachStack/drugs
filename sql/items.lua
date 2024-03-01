@@ -1,0 +1,1 @@
+['weed_brick']   = {['name'] = 'weed_brick',      ['label'] = 'Weed Brick',                ['weight'] = 1000,         ['type'] = 'item',         ['image'] = 'weed_brick.png',              ['unique'] = false,         ['useable'] = false,    ['shouldClose'] = true,       ['combinable'] = nil,   ['description'] = '1KG Weed Brick to sell to large customers.'},
