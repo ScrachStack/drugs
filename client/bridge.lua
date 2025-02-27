@@ -1,3 +1,5 @@
+-- Legacy
+
 if GetResourceState('es_extended') ~= 'missing' then
     esx = false 
 else 
