@@ -1,4 +1,4 @@
---Support? https://discord.gg/cfxdev
+--Support? https://discord.gg/JPYfWsUswu
 Config = {}
 
 Config.CrackHeadModel = 'a_m_o_tramp_01'
